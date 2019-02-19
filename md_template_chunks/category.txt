@@ -1,0 +1,18 @@
+## {{cat_header}}
+
+```{r}
+ar_plot_{{i}}
+```
+
+```{r}
+vt_plot_{{i}}
+```
+
+```{r}
+cd_plot_{{i}}
+```
+
+```{r}
+yr_plot_{{i}}
+```
+
